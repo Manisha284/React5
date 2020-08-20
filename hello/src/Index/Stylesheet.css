@@ -1,0 +1,29 @@
+::placeholder {
+    background-color: pink;
+    text-align:center;
+    color:blue;
+    padding:10px;
+}
+.primary{
+    width:350px;
+    margin:auto;
+    background:linear-gradient(blue,yellow);
+    padding:5px;
+    }
+
+input{
+    background-color:pink;
+    padding:10px;
+    font-family:arial black;
+    border:solid  blue;
+    }
+    .manu{
+        text-align:center;
+        color:blue;
+        padding:10px;
+        font-size:25px;
+    }
+    .sm{
+        padding:10px;
+    }
+    
